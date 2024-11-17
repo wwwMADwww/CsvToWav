@@ -49,7 +49,7 @@ WAV is single channel IEEE 32 bit Float.
     csvtowav test.csv qwe.wav
     ```
 
-- Read `test.csv` using tab symbol (char code 9) as column delimiter, write to `qwe.wav`
+- Read `test.csv` using tab symbol (char code 9) as column delimiter, write to `test.wav`
 
     ```cmd
     csvtowav test.csv --colseparator 09
